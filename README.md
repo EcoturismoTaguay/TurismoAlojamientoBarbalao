@@ -1,2 +1,2 @@
 # TurismoAlojamientoCombarbalá
-Mejor Alojamiento Turistico
+Mejor Alojamiento Turistico de la zona
