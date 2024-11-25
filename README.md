@@ -1,2 +1,2 @@
-# TurismoAlojamientoBarbalao
+# TurismoAlojamientoCombarbalá
 Mejor Alojamiento Turistico
